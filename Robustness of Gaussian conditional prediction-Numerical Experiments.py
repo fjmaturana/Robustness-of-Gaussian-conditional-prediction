@@ -1,10 +1,9 @@
 ###########################################################################
-# Robustness of Gaussian conditional prediction: Numerical Experiments
+# Robustness of Gaussian Conditional Prediction: Numerical Experiments
 #
 # Companion simulation code for the paper:
 #
-# "Robustness of Gaussian conditional prediction for non-Gaussian random 
-#  vectors and fields: an elliptical, cumulant and copula perspective"
+# "Robustness of Gaussian Conditional Prediction Beyond Gaussianity: Elliptical, Cumulant, and Copula Perspectives"
 #
 # This script reproduces the numerical experiments reported in the paper,
 # including:
