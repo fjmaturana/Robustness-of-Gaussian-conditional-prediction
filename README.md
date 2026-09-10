@@ -1,6 +1,6 @@
 Code accompanying:
 
-Maturana, F.J. "Robustness of Gaussian conditional prediction for non-Gaussian random vectors and fields: an elliptical, cumulant and copula perspective"
+Maturana, F.J. "Robustness of Gaussian Conditional Prediction Beyond Gaussianity: Elliptical, Cumulant, and Copula Perspectives"
 
 Reproducing the paper
 Run:
